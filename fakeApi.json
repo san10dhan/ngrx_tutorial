@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "cost": 200
+    }
+  ],
+  "userDetails": [
+    {
+      "userId": 1023,
+      "username": "Sanket",
+      "email": "san@gmail.com"
+    }
+  ]
+}
